@@ -48,9 +48,9 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
 
 ## Contact
 
-For questions or feedback, please reach out to Rob Besaans(mailto:rob@geoinsight.co.nz).
+For questions or feedback, please reach out to [Rob Besaans](mailto:rob@geoinsight.co.nz).
 
